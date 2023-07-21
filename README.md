@@ -15,7 +15,7 @@ To get started with the project, follow the instructions below:
 
 ### Installation
 
-1. Clone the repository: `git clone https://github.com/iMPERIAL18/connect-metamask-to-frontend.git`
+1. Clone the repository: `git clone https://github.com/Castfood/metamask.git`
 2. Change to the project directory: `cd metamask-connect`
 3. Install the dependencies: `npm install`
 
@@ -49,4 +49,4 @@ Follow the steps below to execute the program:
 ## Authors
 
 - Akash Patel
-- GitHub: [https://github.com/iMPERIAL18](https://github.com/iMPERIAL18)
+- GitHub: [https://github.com/Castfood](https://github.com/Castfood)
